@@ -1,0 +1,93 @@
+- !!python/object:__main__.PowerStone
+  atk: 423
+  extras: null
+  stone_type: atk
+- !!python/object:__main__.PowerStone
+  atk: 411
+  extras: null
+  stone_type: atk
+- !!python/object:__main__.PowerStone
+  atk: 387
+  extras: null
+  stone_type: atk
+- !!python/object:__main__.PowerStone
+  atk: 379
+  extras: null
+  stone_type: atk
+- !!python/object:__main__.PowerStone
+  extras: null
+  hp: 378
+  stone_type: health
+- !!python/object:__main__.PowerStone
+  atk: 373
+  extras: null
+  stone_type: atk
+- !!python/object:__main__.PowerStone
+  atk: 347
+  extras: null
+  stone_type: atk
+- !!python/object:__main__.PowerStone
+  atk: 333
+  extras: null
+  stone_type: atk
+- !!python/object:__main__.PowerStone
+  atk: 322
+  extras: null
+  stone_type: atk
+- !!python/object:__main__.PowerStone
+  atk: 319
+  extras: null
+  stone_type: atk
+- !!python/object:__main__.PowerStone
+  atk: 311
+  extras: null
+  stone_type: atk
+- !!python/object:__main__.PowerStone
+  extras: null
+  hp: 310
+  stone_type: health
+- !!python/object:__main__.PowerStone
+  atk: 302
+  extras: null
+  stone_type: atk
+- !!python/object:__main__.PowerStone
+  extras: null
+  hp: 297
+  stone_type: health
+- !!python/object:__main__.PowerStone
+  atk: 294
+  extras: null
+  stone_type: atk
+- !!python/object:__main__.PowerStone
+  extras: null
+  hp: 293
+  stone_type: health
+- !!python/object:__main__.PowerStone
+  extras: null
+  hp: 290
+  stone_type: health
+- !!python/object:__main__.PowerStone
+  atk: 398
+  extras:
+    hit_healing: 1.1
+  stone_type: atk
+- !!python/object:__main__.PowerStone
+  atk: 303
+  extras:
+    healing_from_ko: 1.2
+    natural_hp_healing: 28.8
+    time_to_recover: -11.0
+  stone_type: atk
+- !!python/object:__main__.PowerStone
+  extras:
+    hit_healing: 1.2
+  hp: 346
+  stone_type: health
+- !!python/object:__main__.PowerStone
+  extras: null
+  hp: 290
+  stone_type: health
+- !!python/object:__main__.PowerStone
+  extras: null
+  hp: 283
+  stone_type: health
