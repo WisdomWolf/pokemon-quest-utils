@@ -6,6 +6,8 @@ name = "pypi"
 [packages]
 pyyaml = "*"
 pandas = "*"
+numpy = "*"
+xlrd = "*"
 
 [requires]
 python_version = "3.7"
